@@ -19,4 +19,4 @@ MealMate.com is a simple website where users can input their gender, age, height
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/MealMate.git
+git clone https://github.com/HamzahM03/MealMate.git
